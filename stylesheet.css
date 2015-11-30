@@ -1,1 +1,9 @@
-/*comment*/
+#headerMain{
+    text-align: center;
+    background-color: #c4debc;
+    width: 75%;
+    margin: auto;
+}
+.container{
+    background-color: #e4ffdb;
+}
