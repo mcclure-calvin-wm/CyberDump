@@ -1,9 +1,21 @@
+
+#body{
+    background-color: #e4ffdb;
+}
+
 #headerMain{
     text-align: center;
     background-color: #c4debc;
-    width: 75%;
+    width: 100%;
     margin: auto;
 }
-.container{
-    background-color: #e4ffdb;
+
+#homebutton {
+
+    background-color: transparent;
+    border: none;
+}
+#Sign{
+    background-color: transparent;
+    border: none;
 }
